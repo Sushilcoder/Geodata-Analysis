@@ -1,5 +1,6 @@
 # Geodata-Analysis
-![Capture](https://github.com/user-attachments/assets/91fe0738-71da-4446-b9d9-190070ba18fb)
+![output](https://github.com/user-attachments/assets/60976feb-bf21-488b-942c-c7060a58d0a8)
+# Land Cover Classification using Random Forest
 
 Machine Learning using Google Earth Engine is a powerful approach for analyzing and interpreting large-scale geospatial data.GEE is a cloud-based platform that provides access to a vast
 archive of satellite imagery and geospatial datasets, enabling users to perform planetary-scale analysis
@@ -19,3 +20,4 @@ region
 
 • Visualization: The classified map is displayed with different colors
 representing different land cover classes
+
