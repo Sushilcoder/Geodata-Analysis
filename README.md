@@ -21,3 +21,4 @@ region
 • Visualization: The classified map is displayed with different colors
 representing different land cover classes
 
+![Flow](https://github.com/user-attachments/assets/25a4b4d1-24fa-43d2-89c0-b4adfdc36517)
